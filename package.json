@@ -1,0 +1,21 @@
+{
+  "name": "DashBot",
+  "version": "4.0.0",
+  "description": "Just a bot",
+  "main": "bot.js",
+  "author": "Mikey Richards",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^4.1.4",
+    "discord.js": "^11.4.0",
+    "xml2js": "^0.4.19",
+    "request": "^2.88.0",
+    "ytdl-core": "^2.1.2",
+    "node-opus": "^0.3.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "@discordjs/uws": "^11.149.1",
+    "sodium": "^3.0.2"
+  }
+}

@@ -1,0 +1,10 @@
+<presences>
+  <default>
+    <text>d!help - Now 20% less dumb</text>
+    <status>online</status>
+  </default>
+  <devmode>
+    <text>Dev Mode - Commands may not work</text>
+    <status>dnd</status>
+  </devmode>
+</presences>
